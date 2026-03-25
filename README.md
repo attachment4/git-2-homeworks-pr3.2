@@ -6,4 +6,4 @@
 
 ## Контакты
 Наш телефон: +7 (123) 456-78-90
-Email: info@company.ru
+Email: info@company123.ru
